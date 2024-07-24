@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\service\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\service\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|c:\\users\\tiago\\desktop\\api c#\\webapi\\webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D5B540-B9B0-44C8-A74F-7E4F6C99AC82}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:30:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "WebAPI\\Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:55:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "WebAPI\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:54:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:38:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFuncionarioInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Service\\FuncionarioService\\IFuncionarioInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Service\\FuncionarioService\\IFuncionarioInterface.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Service\\FuncionarioService\\IFuncionarioInterface.cs",
+              "RelativeToolTip": "WebAPI\\Service\\FuncionarioService\\IFuncionarioInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:39:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "WebAPI\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:38:54.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:41:08.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Tiago\\Desktop\\API C#\\WebAPI\\WebAPI\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:08:03.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
